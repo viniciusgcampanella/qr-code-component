@@ -15,5 +15,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Git e Github
 
-<p align="center"> Para acessar o projeto finalizado acesse em: https://viniciusgcampanella.github.io/qr-code-component/ </p>
+<p> Para acessar o projeto finalizado acesse em: https://viniciusgcampanella.github.io/qr-code-component/ </p>
 

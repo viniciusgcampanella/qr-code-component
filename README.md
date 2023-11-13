@@ -5,7 +5,7 @@ Desafio para iniciantes em programação com HTML E CSS básico <br/>
 
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./src/assets/images/image-qr-code.png" width="100%">
+  <img alt="projeto DevLinks" src="./src/assets/design/mobile-design.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias

@@ -13,5 +13,7 @@ Desafio para iniciantes em programação com HTML E CSS básico <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
+
+<p align="center"> Para acessar o projeto finalizado acesse em: https://viniciusgcampanella.github.io/qr-code-component/ </p>
+
